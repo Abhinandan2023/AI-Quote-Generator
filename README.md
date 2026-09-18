@@ -41,7 +41,6 @@ Author
 
 Abhinandan Maity
 
-GitHub
 
 ## Run Locally
 
